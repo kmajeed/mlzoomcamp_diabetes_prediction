@@ -1,0 +1,12 @@
+1. Running following commands from teerminal
+2. Make sure to navigate to thsi folder
+3. To build the docker image run 
+        sudo docker build -t diabetes .
+4. To view existing docker images run command
+        sudo docker images -a
+5. To run the docker image with defaulkt entry point of gunicorn execute the following command
+        sudo docker run -it -p 9696:9696 diabetes
+
+See included screenshots and docker_diabetes_check.ipynb file for predictions that I did
+
+
