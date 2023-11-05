@@ -1,0 +1,3 @@
+Either run the flask app using terminal or run the code of 04_flask_app.ipynb
+
+To test prediction either use a tool like HTTPie or run notebook 05_flask_diabetes_check.ipynb
