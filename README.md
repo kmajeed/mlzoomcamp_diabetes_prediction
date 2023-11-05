@@ -36,7 +36,7 @@ I will be using third file `diabetes _ binary _ health _ indicators _ BRFSS2015.
     
     - lastly, I deployed the docker version of my web app to to render.com. To test the predictions via docker either use the notebook `07_cloudapp_diabetes_check.ipynb` use a tool like HTTPie or PostMan 
 
-- My Webapp on render platform can be reached using https://diabetesprediction-l5y1.onrender.com. It is a headless app and there is no GUI. If you want to test it then following instruction provided in 1.f
+- My Webapp on render platform can be reached using https://diabetesprediction-l5y1.onrender.com. It is a headless app and there is no GUI. If you want to test it then following instruction provided in 1.f. As per render website **Free instance types will spin down with inactivity. Upgrade to a paid instance type to prevent this behavior. Learn more.** So I request you to please use the screenshots and exiting notebook `07_cloudapp_diabetes_check.ipynb` to verfy that it was working the time of creating this GitHub Repo
 
 - Screenshots of predictions as provided in folder named `screenshots of predictions`. This is will allow you test what I done without the need to run the code.
 
