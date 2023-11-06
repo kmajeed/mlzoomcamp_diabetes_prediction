@@ -19,6 +19,8 @@ I indented to build a web service which can provide probabaility and prediction 
 
 I will be using third file `diabetes _ binary _ health _ indicators _ BRFSS2015.csv ` which is what you get pull data from UCI repository.
 
+This isn't meant to be a perfect machine learning model becasue this project is asking to showcase different skills like EDA, model building and creating a prediction service both locally and on cloud. 
+
 
 ## How to review this work
 
